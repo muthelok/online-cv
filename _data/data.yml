@@ -73,7 +73,7 @@ experiences:
           - Bullet point
     role: "UI Developer"
     time: "2012 - 2014"
-footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
+footer: # "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
 projects: 
   assignments: 
     - 
