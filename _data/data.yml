@@ -12,7 +12,7 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
         
-          - Bullet point
+          - Bullet point 
           - Bullet point
     time: "2009 - 2014"
     university: "Vaal University of Technology"
@@ -31,7 +31,7 @@ education:
     university: "Bristol University"
 experiences: 
   - 
-    company: "Startup Hubs, San Francisco"
+    company: "Huawei"
     details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -43,10 +43,20 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
         
-          - Bullet point
-          - Bullet point
-    role: "Lead Developer"
-    time: "2015 - Present"
+          - Site Commissioning and Upgrade (2G, 3G, LTE) 
+          - BSC/RNC and NE Software Upgrades 
+          - Troubleshooting (RTWP, Faulty Hardware and Swap sectors)
+          - Implementing planned activities, like BSC Migrations, BTS Site Re-homing, Integration of new node integration in the network		  
+          - Checking the Network Utilization on daily basis and then suggest and implement the Radio/TC expansion
+          - Implementation of New Software whenever available /Required
+          - Responsible for maintaining all network & individual NEs KPI to agreed value
+          - Responsible to answer all technical queries raised by customer
+          - Monitoring the system’s critical/Major alarms on daily basis and perform activity to minimize the occurrence
+          - Attending weekly meeting with the customer and provide valid answer to all customer concern
+          - Responsible to train field engineers & Share experience with them
+		  
+    role: "RAN Engineer"
+    time: "2014 - Present"
   - 
     company: "Google, London"
     details: |
